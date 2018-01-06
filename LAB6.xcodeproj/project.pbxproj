@@ -13,6 +13,7 @@
 		2C8DD5581FA828EC006A9BCD /* LAB6.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2C8DD5561FA828EC006A9BCD /* LAB6.xcdatamodeld */; };
 		2C8DD55A1FA828EC006A9BCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C8DD5591FA828EC006A9BCD /* Assets.xcassets */; };
 		2C8DD55D1FA828EC006A9BCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C8DD55B1FA828EC006A9BCD /* LaunchScreen.storyboard */; };
+		2C8DD5651FA839C5006A9BCD /* GetLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8DD5641FA839C5006A9BCD /* GetLocation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2C8DD5591FA828EC006A9BCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C8DD55C1FA828EC006A9BCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C8DD55E1FA828EC006A9BCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C8DD5641FA839C5006A9BCD /* GetLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetLocation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2C8DD54F1FA828EC006A9BCD /* AppDelegate.swift */,
 				2C8DD5511FA828EC006A9BCD /* ViewController.swift */,
 				2C8DD5531FA828EC006A9BCD /* Main.storyboard */,
+				2C8DD5641FA839C5006A9BCD /* GetLocation.swift */,
 				2C8DD5591FA828EC006A9BCD /* Assets.xcassets */,
 				2C8DD55B1FA828EC006A9BCD /* LaunchScreen.storyboard */,
 				2C8DD55E1FA828EC006A9BCD /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C8DD5581FA828EC006A9BCD /* LAB6.xcdatamodeld in Sources */,
+				2C8DD5651FA839C5006A9BCD /* GetLocation.swift in Sources */,
 				2C8DD5521FA828EC006A9BCD /* ViewController.swift in Sources */,
 				2C8DD5501FA828EC006A9BCD /* AppDelegate.swift in Sources */,
 			);
